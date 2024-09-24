@@ -74,7 +74,7 @@
 
 **Data Breach Technical Analysis:**
 
-* **Data Collection:** Gather data on historical data breaches from public and proprietary sources such as Kraggle, GitHub, Data.gov, NVD, CISA, BigQuery, OWASP, X-Force, and DBIR. 
+* **Data Collection:** Gather data on historical data breaches from public and proprietary sources such as Kaggle, GitHub, Data.gov, NVD, CISA, BigQuery, OWASP, X-Force, and DBIR. 
 * **Trend Analysis:** Identify and analyze trends and patterns in data breaches over time.  
 * **Impact Assessment:** Evaluate the impact of data breaches on organizations, including financial, reputational, and operational effects.  
 * **Response Evaluation:** Assess the effectiveness of different response strategies and their outcomes.
